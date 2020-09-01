@@ -1,3 +1,6 @@
+<title>Accounts Receivable Software Resource Docs | Invoiced</title>
+<meta name="description" content="Welcome to invoicing on Invoiced. We're going to walk you through using Invoiced to get paid. Find materials to help you use the Invoiced platform.">
+
 # Introduction
 
 Welcome to invoicing on Invoiced. We're going to walk you through using Invoiced to get paid. A couple of quick materials to point out:

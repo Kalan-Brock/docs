@@ -1,3 +1,6 @@
+<title>Developing on the Invoiced Software, Getting Started | Invoiced</title>
+<meta name="description" content="At the heart of Invoiced is a powerful accounts receivable API. It allows you to build integrations with accounting systems, CRMs, and more.">
+
 # Developing on Invoiced
 
 At the heart of Invoiced is a powerful billing API. It allows you to build integrations with accounting systems, CRMs, ordering systems, business intelligence, and any other backoffice systems used to run your business.
